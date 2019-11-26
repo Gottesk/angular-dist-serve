@@ -1,6 +1,6 @@
 # angular-dist-serve
-Nginx configuration for serving Angular build locally under MacOS
-Can be useful for those who need to test ServiceWorker and other PWA features
+Nginx configuration for serving Angular build locally under MacOS.
+Can be useful for those who need to test ServiceWorker and other PWA features.
 
 ## how to use
 
